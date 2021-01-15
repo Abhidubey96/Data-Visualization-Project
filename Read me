@@ -1,0 +1,24 @@
+I have used python 3.8.1, pip 20.2.1, pandas, matplotlib and many more for analysis.
+Python file: https://github.com/Abhidubey96/Data-Visualization-Project/blob/main/Data%20Assignment.ipynb 
+By merging all three-sub data set 
+
+Because of insufficient data and wrong variables in original single data file I have to collaborate it with different source of data of different types to sounds it meaningful and to perform better analysis. Basically, data gathered from all 3-public repository. 
+Data file from public repository.
+Champions League final match Team data from 1956 – 2017 (extracting csv file)
+https://data.world/sportsvizsunday/sports-viz-sundays-2018
+Champions League final match Stadium data from 1956- 2017 (extracting data by using html reader)
+https://www.stadiumguide.com/figures-and-statistics/lists/champions-league-final-venues/
+European Stadium Capacity Data (extracting table from webpage)
+https://www.stadiumguide.com/figures-and-statistics/lists/europes-largest-football-stadiums/
+As data file having empty cells and irrelevant columns (variables) so it’s better to do cleaning process.
+All cleaning done in python; you can refer above python script file.
+Topic:
+Best Team in Champions League History? 
+Description: 
+The UEFA Champions League is an annual club football competition organized by the Union of European Football Associations (UEFA) and contested by top-division European clubs, deciding the competition winners through a group and knockout format. It is one of the most prestigious football tournaments in the world and the most prestigious club competition in European football, played by the national league champions ( and, for some nations,  one or more runners-up) of their national associations.
+For Data Visualization I am analyzing final matches played between teams from 1956 till 2017 also will going to find out so many hidden answers with using graph plots and tableau Dashboard.
+
+Description of intended audience:
+•	Football Teams, especially managers of team to identify the ranking and motivation for winning next title.
+•	Common football fan to identify the best team in champions league history. Also ranking of teams based on goal scored and titles 
+•	Champions league federation for statistics and history evaluation
